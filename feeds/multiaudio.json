@@ -1,0 +1,23 @@
+[
+  {
+    "uid": "urn:uuid:387219bc-04c8-4bb1-a991-1716c9797eef",
+    "updateDate": "2016-11-01T00:00:00Z",
+    "titleText": "A first text item",
+    "mainText": "",
+    "streamUrl": "https://s3.amazonaws.com/f.jesse.ws/alexa/flashtest/multiaudio-1.mp3"
+  },
+  {
+    "uid": "urn:uuid:a6a9119f-eab0-4ce5-b3e6-da8ea677caa1",
+    "updateDate": "2016-11-01T00:00:00Z",
+    "titleText": "A second text item",
+    "mainText": "",
+    "streamUrl": "https://s3.amazonaws.com/f.jesse.ws/alexa/flashtest/multiaudio-2.mp3"
+  },
+  {
+    "uid": "urn:uuid:51752f47-4a00-4dbc-8cda-65b6460522b4",
+    "updateDate": "2016-11-01T00:00:00Z",
+    "titleText": "A third text item",
+    "mainText": "",
+    "streamUrl": "https://s3.amazonaws.com/f.jesse.ws/alexa/flashtest/multiaudio-3.mp3"
+  }
+]

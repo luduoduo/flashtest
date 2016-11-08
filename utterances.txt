@@ -1,0 +1,8 @@
+PlayBriefing	give me the briefing
+PlayBriefing	play me the briefing
+PlayBriefing	give the briefing
+PlayBriefing	play the briefing
+PlayBriefing	give me the news
+PlayBriefing	play me the news
+PlayBriefing	give the news
+PlayBriefing	play the news

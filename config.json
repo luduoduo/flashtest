@@ -1,0 +1,30 @@
+{
+  "name": "An Example Feed",
+  "error": "Whoops! Something's wrong with this feed.",
+  "feeds": [
+    {
+      "name": "Single Text Feed",
+      "format": "text",
+      "preamble": "From Single Text Feed",
+      "url": "https://s3.amazonaws.com/f.jesse.ws/alexa/flashtest/singletext.json"
+    },
+    {
+      "name": "Single Audio Feed",
+      "format": "audio",
+      "preamble": "From Single Audio Feed",
+      "url": "https://s3.amazonaws.com/f.jesse.ws/alexa/flashtest/singleaudio.json"
+    },
+    {
+      "name": "Multi Text Feed",
+      "format": "text",
+      "preamble": "From Multi Text Feed",
+      "url": "https://s3.amazonaws.com/f.jesse.ws/alexa/flashtest/multitext.json"
+    },
+    {
+      "name": "Multi Audio Feed",
+      "format": "audio",
+      "preamble": "From Multi Audio Feed",
+      "url": "https://s3.amazonaws.com/f.jesse.ws/alexa/flashtest/multiaudio.json"
+    }
+  ]
+}

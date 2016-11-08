@@ -1,0 +1,20 @@
+[
+  {
+    "uid": "urn:uuid:2bf40b7b-6790-4089-bb9d-b1844f960e8c",
+    "updateDate": "2016-11-01T00:00:00Z",
+    "titleText": "A first text item",
+    "mainText": "This is the first news object from a text feed with three items."
+  },
+  {
+    "uid": "urn:uuid:e156f3bd-060e-46f1-ac46-1aed361afe1b",
+    "updateDate": "2016-11-01T00:00:00Z",
+    "titleText": "A second text item",
+    "mainText": "This is the second news object from a text feed with three items."
+  },
+  {
+    "uid": "urn:uuid:455a3f5b-50e4-4fdc-9516-3271ac9778b6",
+    "updateDate": "2016-11-01T00:00:00Z",
+    "titleText": "A third text item",
+    "mainText": "This is the third news object from a text feed with three items."
+  }
+]

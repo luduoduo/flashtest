@@ -1,0 +1,7 @@
+{
+  "uid": "urn:uuid:45ddf471-6d42-46e6-930c-9a791f5a8f3c",
+  "updateDate": "2016-11-01T00:00:00Z",
+  "titleText": "A single audio item",
+  "mainText": "",
+  "streamUrl": "https://s3.amazonaws.com/f.jesse.ws/alexa/flashtest/singleaudio.mp3"
+}
